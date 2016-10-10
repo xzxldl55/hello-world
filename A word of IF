@@ -1,0 +1,8 @@
+# print absolute value of an integer:
+name = input("Please input your name.")
+a = int(input("随便输入一个复数"))
+
+if a ==0:
+	print("Oh!",name,"I love you.")
+else:
+	print("Oh",name,"you are a fool.") 
